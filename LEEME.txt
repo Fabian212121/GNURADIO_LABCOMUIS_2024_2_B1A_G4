@@ -1,0 +1,15 @@
+
+Buenos días, Profesor Efrén.
+
+A continuación, le presento todo el proceso que hemos seguido durante el semestre, aplicado en los laboratorios 1, 2, 3 y 4. Le agradecemos profundamente los conocimientos que nos ha proporcionado.
+
+En el primer laboratorio, aprendimos los conceptos básicos relacionados con el uso de las herramientas de software y hardware del curso, como GNU Radio.
+
+En el segundo laboratorio, nos enfocamos en los diferentes tipos de canales, específicamente en los canales de modulación de Amplitud (AM) y Modulación de Fase (PM).
+
+En el tercer laboratorio, estudiamos las modulaciones lineales, abordando casos como:
+Modulación de Amplitud (AM) con una señal de audio.
+Modulación de Amplitud (AM) con una señal binaria.
+
+Finalmente, en el cuarto laboratorio, nos adentramos en las modulaciones angulares y realizamos un monitoreo del espectro radioeléctrico en el rango de frecuencias entre 88 y 108 MHz. Esto nos permitió estudiar las diferentes emisoras con cobertura en el laboratorio.
+Muchas gracias
